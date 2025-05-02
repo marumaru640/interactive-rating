@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/tip-calculator-gM3JiNDaqh)
-- Live Site URL: [Add live site URL here](https://tip-calculator-zeta-one.vercel.app/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-5Xkqp_s7Ya)
+- Live Site URL: [Add live site URL here](https://interactive-rating-wine.vercel.app/)
 
 ## My process
 
